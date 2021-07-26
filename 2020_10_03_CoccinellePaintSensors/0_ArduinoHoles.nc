@@ -1,0 +1,136 @@
+(1001)
+(T4  D=0.7 CR=0 - ZMIN=-7.5 - flat end mill)
+G90 G94
+G17
+G21
+(When using Fusion 360 for Personal Use, the feedrate of rapid moves is reduced to match the feedrate of cutting moves, which can increase machining time. Unrestricted rapid moves are available with a Fusion 360 Subscription.)
+
+(Drill2)
+T4
+S500 M3
+G54
+M8
+G0 X25.092 Y51.91
+Z15
+G1 F0
+G0 Z5
+G1 Z-6 F80
+G0 Z5
+Y49.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y46.91
+G1 Z-6 F80
+G0 Z5
+Y44.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y41.91
+G1 Z-6 F80
+G0 Z5
+Y39.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y36.91
+G1 Z-6 F80
+G0 Z5
+Y34.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y31.91
+G1 Z-6 F80
+G0 Z5
+Y29.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y26.91
+G1 Z-6 F80
+G0 Z5
+Y24.41
+G1 Z-7.5 F80
+G0 Z5
+Y21.91
+G1 Z-7.5 F80
+G0 Z5
+Y19.41
+G1 Z-7.5 F80
+G0 Z5
+Y16.91
+G1 Z-7.5 F80
+G0 Z5
+X30.839 Y15.756
+G1 Z-7.5 F80
+G0 Z5
+X32.839 Y15.754
+G1 Z-7.5 F80
+G0 Z5
+X34.837
+G1 Z-7.5 F80
+G0 Z5
+X34.828 Y13.754
+G1 Z-7.5 F80
+G0 Z5
+X32.839 Y13.752
+G1 Z-7.5 F80
+G0 Z5
+X30.839 Y13.75
+G1 Z-7.5 F80
+G0 Z5
+X40.586 Y16.91
+G1 Z-6 F80
+G0 Z5
+Y19.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y21.91
+G1 Z-7.5 F80
+G0 Z5
+Y24.41
+G1 Z-7.5 F80
+G0 Z5
+Y26.91
+G1 Z-7.5 F80
+G0 Z5
+Y29.41
+G1 Z-7.5 F80
+G0 Z5
+Y31.91
+G1 Z-6 F80
+G0 Z5
+Y34.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y36.91
+G1 Z-6 F80
+G0 Z5
+Y39.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y41.91
+G1 Z-6 F80
+G0 Z5
+Y44.41
+Z1
+G1 Z-7.5 F80
+G0 Z5
+Y46.91
+G1 Z-7.5 F80
+G0 Z5
+Y49.41
+G1 Z-7.5 F80
+G0 Z5
+Y51.91
+G1 Z-6 F80
+G0 Z5
+G1 Z15 F0
+M9
+M5
+M30
